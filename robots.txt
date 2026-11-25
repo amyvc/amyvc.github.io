@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amrutha.org/sitemap.xml
+Sitemap: https://amrutha.org/beyond-work/sitemap.xml
