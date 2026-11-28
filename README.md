@@ -76,7 +76,3 @@ Open `http://localhost:1313/` in your browser to preview the site locally (inclu
 ## License
 
 Copyright © 2026 Amrutha. All rights reserved.
-
-```
-
-```
